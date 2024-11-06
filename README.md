@@ -32,9 +32,10 @@ You can find my resume <a href="https://drive.google.com/file/d/1gf0zf8rVqX7p0jR
 
 <h2 align="center"></h2>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=J13PhantomByte&theme=ocean_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+&nbsp;<div align="center">
+  [![Spotify](https://J13PhantomByte.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/3164sd4mj6kb2zbq4ayohfyokyju)
 </div>
+
 
 <h2 align="center"></h2>
 
