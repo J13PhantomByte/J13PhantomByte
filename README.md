@@ -30,6 +30,10 @@ You can find my resume <a href="https://drive.google.com/file/d/1gf0zf8rVqX7p0jR
 
 <img src="kawai.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
+![](https://github-readme-streak-stats.herokuapp.com/?user=J13PhantomByte&theme=ocean_dark&hide_border=false)<br/>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=J13PhantomByte&theme=ocean_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 <div align="center">
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=J13PhantomByte&radius=16&theme=react&area=true&order=5" height="auto" alt="activity-graph graph"  />
 </div>
