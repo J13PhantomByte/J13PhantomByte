@@ -33,9 +33,8 @@ You can find my resume <a href="https://drive.google.com/file/d/1gf0zf8rVqX7p0jR
 <h2 align="center"></h2>
 
 &nbsp;<div align="center">
-  [![Spotify](https://J13PhantomByte.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/3164sd4mj6kb2zbq4ayohfyokyju)
+  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/3164sd4mj6kb2zbq4ayohfyokyju)
 </div>
-
 
 <h2 align="center"></h2>
 
