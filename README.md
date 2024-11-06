@@ -21,7 +21,7 @@ You can find my resume <a href="https://drive.google.com/file/d/1gf0zf8rVqX7p0jR
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,php,postman,html,css,vscode,github,cpp,tailwind,git,docker" />
+    <img src="https://skillicons.dev/icons?i=react,php,bash,html,css,vscode,github,cpp,tailwind,git,docker" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,arduino,firebase,postgresql,obsidian,linux,nextjs,mysql,opencv" /><br>
 </div>
 
