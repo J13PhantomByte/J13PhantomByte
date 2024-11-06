@@ -1,4 +1,4 @@
-![Profile Views](https://komarev.com/ghpvc/?username=J13PhantomByte&style=flat-square&color=blueviolet&label=Profile+Views)
+[![](https://visitcount.itsvg.in/api?id=J13PhantomByte&icon=1&color=6)](https://visitcount.itsvg.in)
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Juaan+Felixx!;" />
