@@ -32,9 +32,10 @@ You can find my resume <a href="https://drive.google.com/file/d/1gf0zf8rVqX7p0jR
 
 <h2 align="center"></h2>
 
-&nbsp;<div align="center">
-  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/playlist/2xhLEhB0Zt6M0ANzudf45l?si=KtTdv0pRRAmQ_ZvuoojwUw)
+<div align="center">
+  [Lihat Playlist Spotify Saya](https://open.spotify.com/playlist/2xhLEhB0Zt6M0ANzudf45l?si=KtTdv0pRRAmQ_ZvuoojwUw)
 </div>
+
 
 <h2 align="center"></h2>
 
