@@ -22,7 +22,7 @@ You can find my resume <a href="https://drive.google.com/file/d/1gf0zf8rVqX7p0jR
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,php,bash,html,css,vscode,github,cpp,tailwind,git,docker" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,raspberrypi,arduino,firebase,postgresql,obsidian,linux,nextjs,mysql,opencv" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,raspberrypi,arduino,firebase,postgresql,obsidian,linux,nextjs,nginx,opencv" /><br>
 </div>
 
 <br/>
