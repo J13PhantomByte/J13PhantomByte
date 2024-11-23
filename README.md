@@ -10,7 +10,7 @@ You can find my resume <a href="https://drive.google.com/file/d/1gf0zf8rVqX7p0jR
 <br/>
 
 <div align="center"> 
-  <a href="https://portofolio-juaan.vercel.app/" target="_blank">
+  <a href="https://juanfelixv4-three.vercel.app/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
