@@ -6,7 +6,7 @@
 
 <h3 align="center">A passionate software developer from Indonesia</h3>
 <h6 align="center">Hi, I’m Juaan Felixx! As a freelancer with a deep passion for technology, I stay updated on the latest advancements. My expertise includes cybersecurity, networking, AI, cloud computing, and software development. I’m always exploring new tools and platforms to drive innovation.
-You can find my resume <a href="https://drive.google.com/file/d/1gf0zf8rVqX7p0jRSpwBmJe_EJylLNFQe/view?usp=sharing" target="_blank">Here</a>. update Nov 2, 2024</h6>
+You can find my resume <a href="https://drive.google.com/file/d/11UkFFOTGC9HduznafnOAfxfyG6_qwG0o/view?usp=sharing" target="_blank">Here</a>. update Nov 2, 2024</h6>
 <br/>
 
 <div align="center"> 
