@@ -9,6 +9,9 @@
 You can find my resume <a href="https://drive.google.com/file/d/11UkFFOTGC9HduznafnOAfxfyG6_qwG0o/view?usp=sharing" target="_blank">Here</a>. update Nov 2, 2024</h6>
 <br/>
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif">
+
 <div align="center"> 
   <a href="https://juanfelixv4-three.vercel.app/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
