@@ -4,6 +4,9 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Juann!;" />
 </h1>
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif">
+
 <h3 align="center">A passionate software developer from Indonesia</h3>
 <h6 align="center">Hi, I’m Juann! As a freelancer with a deep passion for technology, I stay updated on the latest advancements. My expertise includes cybersecurity, networking, AI, cloud computing, and software development. I’m always exploring new tools and platforms to drive innovation.
 You can find my resume <a href="https://drive.google.com/file/d/11UkFFOTGC9HduznafnOAfxfyG6_qwG0o/view?usp=sharing" target="_blank">Here</a>. update Nov 2, 2024</h6>
@@ -14,9 +17,6 @@ You can find my resume <a href="https://drive.google.com/file/d/11UkFFOTGC9Hduzn
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif">
  
 
  <hr/>
