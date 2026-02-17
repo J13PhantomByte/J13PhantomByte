@@ -77,7 +77,7 @@ I believe technology is not just about coding — it's about **solving real prob
 
 ---
 
-## 🏆 Profile Visitors
+<img src="kawai.gif" width="60"><b>Profile Visitor</b> :)</em>
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=J13PhantomByte&style=for-the-badge&color=blueviolet">
