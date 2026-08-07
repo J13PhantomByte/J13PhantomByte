@@ -12,11 +12,16 @@
     "When we're out of touch"
   ],
   "character": "characters/mine.toml",
-  "streak": 0,
-  "stats": [],
-  "contributions": "",
-  "contrib_year": 0,
-  "contrib_recent": 0,
+  "streak": 1,
+  "stats": [
+    "repos:208",
+    "stars earned:4\n8\n2",
+    "followers:13",
+    "following:11"
+  ],
+  "contributions": "0001000000001000000001002001000100200001040000400000020000000040020001000000100000030100000001000020000000011000000101000002000000000000010430000000000001040001102001400000200100120042100010000000004212000100011000002022000100001000100000000100110022000000002100000042200011000010100100040100000000021100000000000000200010022101001100210411214220221000011011100202120003.",
+  "contrib_year": 367,
+  "contrib_recent": 75,
   "output": "assets/awan.gif",
   "scenes": [
     {
@@ -37,8 +42,8 @@
       "then": "and {contrib_recent} in the last 30 days"
     },
     {
-      "act": "{verdict}",
-      "say": "CI decides"
+      "act": "sleep",
+      "say": "...i'll fix that, promise"
     },
     {
       "act": "sing"
