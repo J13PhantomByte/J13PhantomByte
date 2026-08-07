@@ -25,7 +25,7 @@ You can find my resume <a href="https://drive.google.com/file/d/11UkFFOTGC9Hduzn
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bash,py,googlecloud,vscode,github,tailwind,git,linux,windows" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,arduino,supabase,obsidian,nextjs,mysql,opencv" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,js,arduino,supabase,obsidian,nextjs,mysql,opencv" /><br>
 </div>
 
 <br/>
