@@ -1,0 +1,52 @@
+#  — drawn at codewithwan.github.io/awan
+# Glyph language: '#' solid · '+' dense · '-' light · '@' eye · ' ' empty.
+# Face variants (blinks, glances, happy eyes, open mouth) are derived by the
+# engine from the eye/mouth rows.
+
+spec_version = 1
+
+[character]
+name = ""
+author = ""
+description = ""
+
+[character.palette]
+body = "#1F89DB"
+eye = "#FFFFFF"
+
+[sprite]
+rows = [
+    "  ####    ",
+    " ######## ",
+    "##@@##@@##",
+    "###----###",
+    "+########+",
+    " ## ## ## ",
+]
+sit_rows = [
+    "          ",
+    "  ####    ",
+    " ######## ",
+    "##@@##@@##",
+    "###----###",
+    "+########+",
+]
+leg_frames = [
+    " ## ## ## ",
+    "## ## ##  ",
+    " ## ## ## ",
+    "  ## ## ##",
+]
+eye_row = 2
+mouth_row = 3
+legs_row = 5
+
+[personality]
+blink_rate = 1.0
+walk_speed = 1.0
+chaos = 0.2
+
+[reactions]
+"cmd.failed" = "charred"
+"task.done" = "celebrate"
+"idle" = "sleep"
