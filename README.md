@@ -36,8 +36,10 @@ You can find my resume <a href="https://drive.google.com/file/d/11UkFFOTGC9Hduzn
 
 <h2 align="center"></h2>
 
+## 🐍 Contribution Flow
+
 <div align="center">
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=J13PhantomByte&radius=16&theme=react&area=true&order=5" height="auto" alt="activity-graph graph"  />
+<img src="https://raw.githubusercontent.com/J13PhantomByte/snk/output/github-contribution-grid-snake-dark.svg">
 </div>
 
 <h3 align="center">
