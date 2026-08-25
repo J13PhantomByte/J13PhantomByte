@@ -36,15 +36,10 @@ You can find my resume <a href="https://drive.google.com/file/d/11UkFFOTGC9Hduzn
 
 <h2 align="center"></h2>
 
-## 🐍 Contribution Flow
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/J13PhantomByte/snk/output/github-contribution-grid-snake-dark.svg">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=Always+Learning;Always+Exploring;Always+Leveling+Up" />
 </div>
-
-<h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Ngoding+boleh+lupa+makan+itu+Jangan!;I'm+always+down+to+collab+:)">
-</h3>
 
 <br/>
 
